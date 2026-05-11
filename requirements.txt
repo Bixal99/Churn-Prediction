@@ -3,6 +3,7 @@ scikit-learn
 xgboost
 pandas
 numpy
+plotly
 seaborn
 matplotlib
 pinecone-client
